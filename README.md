@@ -1,5 +1,9 @@
 # Ember-dashboard
 
+Eventually it will have its github pages to showcase the design.
+
+Dependencies:(Coming soon)
+
 This README outlines the details of collaborating on this Ember application.
 
 ## Installation
@@ -22,4 +26,4 @@ This README outlines the details of collaborating on this Ember application.
 
 * `ember build`
 
-For more information on using ember-cli, visit [http://iamstef.net/ember-cli/](http://iamstef.net/ember-cli/).
+For more information on using ember-cli, visit [http://ember-cli.com/](http://ember-cli.com).
